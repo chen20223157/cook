@@ -1,0 +1,14 @@
+# 环境变量配置说明
+
+创建一个名为 .env 的文件（没有文件名，只有扩展名），内容如下：
+
+OPENAI_API_KEY=sk-你的API密钥
+
+注意事项：
+1. 等号两边不要有空格
+2. 不要使用引号
+3. API Key 以 sk- 开头
+4. 保存后确保文件名就是 .env（不是 .env.txt）
+
+示例：
+OPENAI_API_KEY=sk-proj-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
